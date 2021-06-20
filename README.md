@@ -12,3 +12,9 @@ The script takes care of:
 - Define base_url in config.php
 - Import a .sql file to the database
 - Optionally allows adding an administrator user to a table defined in the script configuration, requesting the user to enter an email and password.
+
+
+![Screenshot 1](https://raw.githubusercontent.com/nachoaguirre/ci3-wizard-install/7ac3140c8d3d2712664c1036f9514c3c1e5876c3/screenshots/ci3-installer-1.png)
+![Screenshot 2](https://raw.githubusercontent.com/nachoaguirre/ci3-wizard-install/main/screenshots/ci3-installer-2.png)
+![Screenshot 3](https://raw.githubusercontent.com/nachoaguirre/ci3-wizard-install/main/screenshots/ci3-installer-4.png)
+![Screenshot 4](https://raw.githubusercontent.com/nachoaguirre/ci3-wizard-install/main/screenshots/ci3-installer-5.png)
